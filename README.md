@@ -14,7 +14,7 @@ INSTALL OUR-ISO WITH GOOGLE DRIVE :
 ## Demo
 
 
-         ![Texte alternatif](target.png)
+![Texte alternatif](target.png)
     
 ## Authors
 
