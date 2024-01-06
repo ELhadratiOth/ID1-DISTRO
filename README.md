@@ -13,8 +13,8 @@ INSTALL OUR-ISO WITH GOOGLE DRIVE :
 ```
 ## Demo
 
-Insert gif or link to demo
-                ![Texte alternatif](target.png)
+
+         ![Texte alternatif](target.png)
     
 ## Authors
 
